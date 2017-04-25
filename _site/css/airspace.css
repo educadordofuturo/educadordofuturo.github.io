@@ -217,6 +217,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
+  text-align: center;
   font-size: 14px;
   line-height: 1.6;
 }
