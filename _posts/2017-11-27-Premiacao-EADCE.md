@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Premiação EADCE
-subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
 date: 2016-11-27 18:00:00
 author: Allythy Rennan
 ---
