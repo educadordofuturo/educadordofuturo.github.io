@@ -6,7 +6,8 @@
  *
  */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
 /* var text-decoration */
@@ -35,11 +36,6 @@ div.py-5.section
 .text-primary{color: black;
 }
 /*fim*/
-
-.contato h2{
-    margin-left: 40px;
-}
-
 
 h2 {
   font-size: 30px;
