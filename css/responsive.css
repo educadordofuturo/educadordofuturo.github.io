@@ -22,10 +22,15 @@ header .navbar-brand
     padding-top: 10px;
   }
 
-#slider .block h1
-{
-    line-height: 60px;
-    letter-spacing: 15px;
+  #slider .block h1
+  {
+      line-height: 60px;
+      letter-spacing: 15px;
+  }
+
+  h2
+  {
+    margin-left: 40px;
   }
 }
 
@@ -37,7 +42,9 @@ header .navbar-brand
 header .navbar-brand {
     padding-top: 10px;
 }
-
+h2{
+  margin-left: 40px;
+}
 
   /*--
 	wrapper Start
@@ -190,6 +197,7 @@ px      68    160    252    */
   }
   h2 {
     font-size: 18px;
+    margin-left: 40px;
   }
   p {
     font-size: 13px;

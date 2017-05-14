@@ -32,10 +32,13 @@ div.py-5.section
   margin-top: 50px;
 }
 
-.text-primary{color: black;}
+.text-primary{color: black;
+}
+/*fim*/
 
-
-
+.contato h2{
+    margin-left: 40px;
+}
 
 
 h2 {
@@ -53,7 +56,7 @@ p {
 }
 ul {
   padding: 0;
-  margin: 0;
+  margin-left: 40px;
   list-style: none;
 }
 a,
