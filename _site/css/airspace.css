@@ -160,7 +160,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block p {
   color: #7B7B7B;
-  padding-top: 20px;
+  padding: 20px 20px 0px 20px;
 }
 #intro .block img {
   padding-left: 40px;
@@ -170,7 +170,8 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 0px;
 }
 #intro .section-title p {
-  padding-top: 20px;
+  color: #7B7B7B;
+  padding: 20px 0px 0px 0px;
 }
 /*--
 	service Start
@@ -414,7 +415,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block h1 {
   font-weight: 100;
   font-size: 35px;
-  letter-spacing: 6px;
+  letter-spacing: 4px;
   margin: auto;
   text-transform: capitalize;
   text-align: center;
