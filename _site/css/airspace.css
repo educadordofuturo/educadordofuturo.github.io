@@ -44,6 +44,7 @@ h2 {
 h3 {
   font-size: 28px;
   font-weight: 300;
+  margin: 40px 0px 0px 40px;
 }
 p {
   text-align: justify;
@@ -679,7 +680,6 @@ font header .navbar-default .navbar-nav li a:hover {
 	contact-form Start
 --*/
 #contact-form {
-  padding-top: 70px;
   padding-bottom: 35px;
 }
 #contact-form .block form .form-group {
@@ -725,7 +725,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 20px;
 }
 .social-icons {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .social-icons li {
   display: inline-block;
