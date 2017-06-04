@@ -69,12 +69,6 @@ a:active {
   font-weight: 600;
   margin: 0;
 }
-.section-title p {
-  font-family: 'Volkhov', serif;
-  font-style: italic;
-  color: #666;
-}
-
 .servicos{
   padding: 0px 0px 0px 50px;
 }
@@ -168,7 +162,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 20px 20px 0px 20px;
 }
 #intro .block img {
-  padding-left: 40px;
+  padding: 40px 0px 0px 40px;
   width: 100%;
 }
 #intro .section-title {
