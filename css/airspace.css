@@ -74,6 +74,10 @@ a:active {
   font-style: italic;
   color: #666;
 }
+
+.servicos{
+  padding: 0px 0px 0px 50px;
+}
 /*--
 	Header Start
 --*/
@@ -186,7 +190,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  color: #004664;
 }
 #service .service-item h4 {
   padding-top: 20px;
