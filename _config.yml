@@ -15,10 +15,9 @@ keep_files:
 
 # Site settings
 title: Educador do Futuro
-subtitle: "A free HTML5 agency template"
-#url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+description: "O Educador do Futuro, é uma empresa que, através da oferta de cursos e oficinas, busca preparar professores, antes e depois de seu ingresso em sala de aula."
 baseurl: ""
+url: "http://educadordofuturo.info/" # the base hostname & protocol for your site
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
