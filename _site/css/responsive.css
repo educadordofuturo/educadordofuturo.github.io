@@ -17,6 +17,9 @@ px      68    160    252    344    436    528    620    712    */
 /*Logo para  1024px para cima*/
 @media only screen and (min-width:1024px){
 
+  .servicos{
+      width: 55%;
+  }
 header .navbar-brand
   {
     padding-top: 5px;

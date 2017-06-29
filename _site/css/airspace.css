@@ -70,7 +70,8 @@ a:active {
   margin: 0;
 }
 .servicos{
-  padding: 0px 0px 0px 50px;
+  padding: 0px 20px 0px 20px;
+  width: 100%;
 }
 /*--
 	Header Start
