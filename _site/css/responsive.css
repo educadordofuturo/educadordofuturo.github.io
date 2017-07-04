@@ -35,6 +35,14 @@ header .navbar-brand
   {
     margin-left: 40px;
   }
+
+  /*Thumbnail da Equipe*/
+  .img-thumbnail{
+    width: auto;
+    height: 500px;
+
+
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
