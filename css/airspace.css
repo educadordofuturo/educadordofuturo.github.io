@@ -67,7 +67,7 @@ a:active {
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
-  margin: 0;
+  margin: 45px 20px 0px 20px;
 }
 .servicos{
   padding: 0px 20px 0px 20px;
@@ -449,7 +449,10 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #292929;
   font-weight: 300;
 }
-/*---------------------------*/
+/*Apoio*/
+.thumbnail{
+  border: initial
+}
 /*--
 	footer Start
 --*/
