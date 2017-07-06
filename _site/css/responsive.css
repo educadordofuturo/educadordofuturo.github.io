@@ -102,6 +102,9 @@ h2{
   footer .navbar-default .navbar-nav li a:hover {
     color: #000;
   }
+  .text-left{
+    text-align: center;
+  }
   /*---------------------------------------------
 					Index Close
 -----------------------------------------------*/
@@ -151,11 +154,10 @@ px      68    160    252    */
 .thumbnail{
   padding: 0px 0px 30px 0px;
   width: 220px;
-
-
 }
-
-
+.text-left{
+  text-align: center;
+}
   .heading {
     padding-left: 0px;
   }

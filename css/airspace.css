@@ -173,6 +173,10 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #7B7B7B;
   padding: 20px 0px 30px 0px;
 }
+.text-left{
+  text-align: left;
+}
+
 /*--
 	service Start
 --*/
@@ -285,6 +289,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 27px;
   font-weight: 600;
   margin: 0 0 30px 0;
+  text-align: center;
 }
 #feature p {
   color: white;
